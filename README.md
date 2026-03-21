@@ -1,6 +1,6 @@
 # My ML Journey
 
-Learning machine learning from the ground up — starting with the maths, then applying algorithms to real-world problems to understand what works best and when.
+Learning machine learning from the ground up starting with the maths, then applying algorithms to real-world problems to understand what works best and when.
 
 ## Structure
 
