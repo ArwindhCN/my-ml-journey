@@ -7,7 +7,7 @@ Cleaning and preparing data before modelling. This is where most real ML work ha
 | # | Topic | Notebook |
 |---|-------|----------|
 | 2.1 | Handling missing values | [missing-values.ipynb](./missing-values.ipynb) |
-| 2.2 | Detecting & handling outliers | coming soon |
+| 2.2 | Detecting & handling outliers | [outliers.ipynb](./outliers.ipynb) |
 | 2.3 | Encoding categorical data | coming soon |
 | 2.4 | Feature scaling | coming soon |
 | 2.5 | Feature engineering | coming soon |
