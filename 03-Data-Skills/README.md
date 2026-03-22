@@ -11,10 +11,10 @@ Cleaning and preparing data before modelling. This is where most real ML work ha
 | 2.3 | Encoding categorical data | [encoding-categorical-data.ipynb](./encoding-categorical-data.ipynb) |
 | 2.4 | Feature scaling | [feature-scaling.ipynb](./feature-scaling.ipynb) |
 | 2.5 | Feature engineering | [feature-engineering.ipynb](./feature-engineering.ipynb) |
-| 2.6 | Exploratory data analysis (EDA) | coming soon |
+| 2.6 | Exploratory data analysis (EDA) | [eda.ipynb](./eda.ipynb) |
 
 ## Project
-**Titanic survival prediction** — applies everything from 2.1 to 2.6 on a real messy dataset.
+**Titanic survival prediction** — applies everything from 2.1 to 2.6 on a real messy dataset → [titanic-survival.ipynb](./titanic-survival.ipynb)
 
 ---
 
