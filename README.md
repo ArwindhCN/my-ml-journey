@@ -40,7 +40,12 @@ my-ml-journey/
 ### 01 — Foundations
 The maths that makes ML work — linear algebra, calculus, statistics, and getting comfortable with NumPy and Pandas.
 
-### 02 — Data Skills
+### 02 - Real-World
+Applying algorithms to real problems and comparing their performance.
+
+**Phishing Detector** — binary classification to detect phishing URLs/emails using Logistic Regression, Decision Tree, Random Forest, and Naive Bayes.
+
+### 03 — Data Skills
 Cleaning and preparing data before modelling. Covers missing values, outliers, encoding, scaling, feature engineering and EDA.
 
 **Project — Titanic Survival Prediction**
@@ -48,10 +53,7 @@ Cleaning and preparing data before modelling. Covers missing values, outliers, e
 - Key finding: sex and pclass were the strongest predictors
 - Tools: pandas, sklearn, seaborn, matplotlib
 
-### 02-Real-World
-Applying algorithms to real problems and comparing their performance.
 
-**Phishing Detector** — binary classification to detect phishing URLs/emails using Logistic Regression, Decision Tree, Random Forest, and Naive Bayes.
 
 ---
 
