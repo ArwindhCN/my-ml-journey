@@ -7,7 +7,7 @@ How to properly measure whether a model is good. Accuracy alone is misleading â€
 | # | Topic | Notebook |
 |---|-------|----------|
 | 3.1 | Confusion matrix â€” TP, TN, FP, FN | [confusion-matrix.ipynb](./confusion-matrix.ipynb) |
-| 3.2 | Precision & Recall | coming soon |
+| 3.2 | Precision & Recall | [precision-recall.ipynb](./precision-recall.ipynb) |
 | 3.3 | F1 Score | coming soon |
 | 3.4 | ROC-AUC | coming soon |
 | 3.5 | Cross-validation | coming soon |
