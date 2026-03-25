@@ -9,9 +9,9 @@ How to properly measure whether a model is good. Accuracy alone is misleading �
 | 3.1 | Confusion matrix — TP, TN, FP, FN | [confusion-matrix.ipynb](./confusion-matrix.ipynb) |
 | 3.2 | Precision & Recall | [precision-recall.ipynb](./precision-recall.ipynb) |
 | 3.3 | F1 Score | [f1-score.ipynb](./f1-score.ipynb) |
-| 3.4 | ROC-AUC | coming soon |
-| 3.5 | Cross-validation | coming soon |
-| 3.6 | Regression metrics — MAE, RMSE, R² | coming soon |
+| 3.4 | ROC-AUC | [roc-auc.ipynb](./roc-auc.ipynb) |
+| 3.5 | Cross-validation | [cross-validation.ipynb](./cross-validation.ipynb) |
+| 3.6 | Regression metrics — MAE, RMSE, R² | [regression-metrics.ipynb](./regression-metrics.ipynb) |
 
 ## Key Rule
 
