@@ -11,8 +11,7 @@ evaluated on real-world datasets using the metrics from Chapter 3.
 
 | File | Topic | Dataset | Status |
 |------|-------|---------|--------|
-| 4.1-logistic-regression.ipynb | Logistic Regression | Pima Diabetes (768 patients) | ✅ done |
-| 4.2-knn.ipynb | KNN + Logistic Regression | Pima Diabetes (768 patients) | ✅ done |
+| 4.2-knn.ipynb | 4.1 Logistic Regression + 4.2 KNN | Pima Diabetes (768 patients) | ✅ done |
 | 4.2-knn-concepts-deep.ipynb | KNN — every concept from scratch | Pima Diabetes | ✅ done |
 | 4.2-knn-credit-risk-solved.ipynb | KNN real world problem | Chennai Bank — loan default | ✅ done |
 | 4.3-decision-tree.ipynb | Decision Tree | Employee attrition — Bangalore IT | ✅ done |
