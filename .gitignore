@@ -1,0 +1,27 @@
+# Virtual environment
+ml-env/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.fileloc
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.ipynb_checkpoints/
+
+# Data cache (downloaded GEO datasets, etc.)
+geo_cache/
+
+# Archive zips in approach2 (large, derivable)
+approach2/Archive*.zip
+approach2/GNNjul6.zip
+
+# Byte-compiled / optimized / DLL files
+*.egg-info/
+dist/
+build/
